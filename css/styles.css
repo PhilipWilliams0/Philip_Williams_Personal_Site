@@ -1,0 +1,20 @@
+/* General styling */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Hero section */
+.hero {
+    margin: 50px 0;
+}
+
+/* Rounded images */
+img.rounded-circle {
+    border: 3px solid #007bff;
+}
+
+/* Contact form */
+form {
+    max-width: 600px;
+    margin: auto;
+}

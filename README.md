@@ -1,4 +1,4 @@
-# Personal Website
+# Philip_Williams_Personal_Site
 
 A professional website built to showcase my qualifications, skills, and experience as a finance professional with technical expertise in the UK insurance sector.
 
@@ -42,23 +42,4 @@ To run this website locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/PhilipWilliams0/Philip_Williams_Personal_Site
-   ```
-2. Navigate to the project folder:
-   ```bash
-   cd your-repo-name
-   ```
-3. Open `index.html` in your browser to view the website.
-
-## Usage
-
-You can visit the live site hosted on GitHub Pages at: [https://github.com/PhilipWilliams0/Philip_Williams_Personal_Site](https://github.com/PhilipWilliams0/Philip_Williams_Personal_Site)
-
-Alternatively, if running locally, open the `index.html` file in any modern web browser.
-
-## License
-
-
----
-
-This `README.md` gives a good overview for anyone viewing your repository. It also includes instructions for cloning and running the website locally, which is useful if others want to contribute or review your code. Let me know if you'd like to add more specific sections!
+   git clone https://github.com/yourusername/Philip_Williams_Personal_Site.git
